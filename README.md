@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Yozgat Bozok University**
 
-- 💬 Ask me about **C, C++, C#, Python, Lua**
+- 💬 Ask me about **C, C++, C#, Python, Lua, vim script**
 
 - 📫 How to reach me **kerimakan77@gmail.com**
 
