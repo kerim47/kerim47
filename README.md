@@ -1,18 +1,86 @@
-<h1 align="center">Hi 👋, I'm Abdulkerim Akan</h1>
-<h3 align="center">A student from Turkey</h3>
+# 👨‍💻 Abdulkerim Akan | Passionate Developer & Tech Enthusiast
 
-- 🌱 I’m currently learning **Yozgat Bozok University**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
-- 💬 Ask me about **C, C++, C#, Python, Lua, vim script**
+## 🚀 About Me
 
-- 📫 How to reach me **kerimakan77@gmail.com**
+Hello! I'm Abdulkerim, a Computer Science student at **Yozgat Bozok University** with a passion for coding and technology. I'm on a journey to become a versatile developer, constantly pushing my boundaries and exploring new horizons in the tech world.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🔭 Currently working on: Advanced machine learning projects and image processing techniques
+- 🌱 Learning: Diving deeper into AI and exploring cloud technologies
+- 👯 Looking to collaborate on: Open-source projects and innovative tech solutions
+- 🎯 2024 Goals: Contribute to major open-source projects and publish research papers
 
-<a href="https://www.linkedin.com/in/abdulkerim-akan-280658211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdulkerim" height="30" width="40" /></a>
-<a href="https://www.instagram.com/akerimakan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abdulkerim" height="30" width="40" /></a>
+## 💻 Tech Stack
+
+```python
+class AbdulkerimAkan:
+    def __init__(self):
+        self.code = ["Python", "C", "C++", "C#", "Lua", "Vim Script"]
+        self.tools = ["Docker", "Git", "VSCode", "Vim"]
+        self.areas = ["Machine Learning", "Image Processing", "Data Structures", "Algorithms"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's code something amazing together.")
+
+me = AbdulkerimAkan()
+me.say_hi()
+```
+
+## 🛠️ Languages and Tools
+
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerim47&show_icons=true&theme=radical" alt="Abdulkerim's GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerim47&theme=radical" alt="Abdulkerim's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerim47&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kerim47&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulkerim-akan/">
+    <img src="https://img.shields.io/badge/-Abdulkerim%20Akan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/AbdulkerimAkan">
+    <img src="https://img.shields.io/badge/-AbdulkerimAkan-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/kerim47">
+    <img src="https://img.shields.io/badge/-kerim47-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kerim47&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">💬 Feel free to reach out for collaborations or just a friendly chat about tech!</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff69b4.svg" alt="Made with love" />
+</p>
